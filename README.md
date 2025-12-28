@@ -6,6 +6,9 @@ It integrates monitoring, security, centralized logging, and incident management
 
 The infrastructure is deployed and tested using **GNS3** and **VMware Workstation**, simulating a real-world enterprise network with VLAN segmentation and security controls.
 
+ <img src="https://github.com/nassim-saii/NOC_Project/blob/main/diagrams/technical-architecture.png"  alt="screenshot" width="Auto" height="Auto" />
+
+
 ## 🎯 Objectives
 - Centralized monitoring of network devices and servers
 - Real-time detection of failures and security incidents
@@ -30,7 +33,9 @@ Key components:
 - **Snort**: Intrusion Detection System (IDS)
 - **GLPI**: IT asset management & ticketing
 
-Architecture diagrams are available in the `diagrams/` directory.
+Architecture diagrams:
+
+ <img src="https://github.com/nassim-saii/NOC_Project/blob/main/diagrams/gns3-topology.png"  alt="screenshot" width="Auto" height="Auto" />
 
 ## 🧰 Technologies Used
 - pfSense
