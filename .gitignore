@@ -1,0 +1,5 @@
+*.vmdk
+*.ova
+*.log
+*.cache
+*.tmp
