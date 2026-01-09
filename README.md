@@ -80,7 +80,7 @@ Detailed test cases are documented in the `tests/` directory.
 - **Abidli Roudaina**
 
 Supervisor: **Taker Hadiji**  
-Class: **ING-5-SSIR-B**  
+Class: **ING-5-SSIR**  
 Academic Year: **2025–2026**
 
 ## 📜 License
