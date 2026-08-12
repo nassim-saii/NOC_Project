@@ -76,7 +76,7 @@ Detailed test cases are documented in the `tests/` directory.
 - `report/` – Full academic report (PDF)
 
 ## 👨‍🎓 Authors
-- **Saii Nassim**
+- **Sai Nassim**
 - **Abidli Roudaina**
 
 Supervisor: **Taker Hadiji**  
